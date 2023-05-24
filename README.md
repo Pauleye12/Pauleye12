@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Pauleye12
-- 👀 I’m interested in Frontend web Development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me twitte @pauleye12_
+- 👋 Hi, I’m Pauleye, A Software Engineer 
+- 👀 Exceptional Frontend web Developer
+- 🌱 HTML, CSS, Javascript, Jquery, ReactJS, nextJS, firebase, MoongoDB, NodeJS.
+- 💞️ Currently open to work and collaborations
+- 📫 How to reach me twitter @Paul_D_dev
 
 <!---
 Pauleye12/Pauleye12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pauleye, A Software Engineer 
 - 👀 Exceptional Frontend web Developer
-- 🌱 HTML, CSS, Javascript, Jquery, ReactJS, nextJS, firebase, MoongoDB, NodeJS.
+- 🌱 HTML, CSS, Javascript, Typescript,Tailwind, Jquery, ReactJS, nextJS, firebase, MoongoDB, NodeJS.
 - 💞️ Currently open to work and collaborations
 - 📫 How to reach me twitter @Paul_D_dev
 
